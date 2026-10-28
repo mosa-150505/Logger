@@ -22,8 +22,8 @@ make help      # available make options
 
 ```json
 {
-  "email": "you@example.com",
-  "password": "your-password"
+  "email": "email or username",
+  "password": "your password"
 }
 ```
 
