@@ -1,5 +1,3 @@
-"""Ouvre la section Reels de Facebook avec un profil Firefox dédié."""
-
 import json
 import random
 import time
